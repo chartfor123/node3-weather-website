@@ -1,7 +1,7 @@
 body {
     color: #333333;
     font-family: arial;
-    max-width: 450px;
+    max-width: 350px;
     margin: 0 auto;
     padding: 0 16px;
     width: 100vw;
@@ -39,7 +39,7 @@ header a {
 }
 
 .landscape {
-    width: 300px;
+    width: 200px;
 }
 
 input {
